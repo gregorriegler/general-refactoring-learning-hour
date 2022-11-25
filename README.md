@@ -14,9 +14,11 @@ Template for teaching specific refactorings in practice
 - 5 min conclusion: Do you remember a code where that Refactoring would apply?
 
 ### Connect - 3 Refactorings you already know
-Form groups where people discuss 3 refactorings they already know
+Form groups where people discuss 3 refactorings they already know.
+In the end maybe show them the [Catalogue of Refactorings](https://refactoring.com/catalog/)
 
 ### Concept - Demo your Refactoring (e.g. Split Loop)
+Discuss the motivation behind the refactoring.
 Explain your thoughts.
 Show it very slowly.
 Run the Tests.
