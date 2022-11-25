@@ -9,6 +9,7 @@ Template for teaching specific refactorings in practice
 ## Session Outline
 
 - 5 min connect: 3 Refactorings you already know
+- (Alternative 5 min connect: Give a definition for refactoring)
 - 10 min concept: Demo the Refactoring
 - 40 min concrete practice: Practice the same Refactoring
 - 5 min conclusion: Do you remember a code where that Refactoring would apply?
